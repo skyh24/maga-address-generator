@@ -5,3 +5,9 @@
 donate: 19kxoYhnCNB7zPYewTVoym3HeKCnVAMAGa
 
 ![](./components.png)
+
+Use:
+  ```
+  npm i
+  npm run dev
+  ```
